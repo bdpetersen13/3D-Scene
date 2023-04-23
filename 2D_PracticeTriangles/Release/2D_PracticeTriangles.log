@@ -1,0 +1,55 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (2D_PracticeTriangles.vcxproj, 3D_Pyramid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(22,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(23,77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(65,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(66,77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(108,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(109,77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(168,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(172,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(173,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(182,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(194,31): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(195,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(225,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(281,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(318,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(323,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(332,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(408,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(408,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(408,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(410,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(410,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(410,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(412,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(412,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(412,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(414,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(414,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(414,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(454,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(464,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(501,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(534,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(538,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(539,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(548,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(575,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(625,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(639,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(640,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(650,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(773,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(787,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(802,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(812,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(865,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bdpet\OneDrive\Desktop\3D_Scene\2D_PracticeTriangles\Source.cpp(866,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 186 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2D_PracticeTriangles.vcxproj -> C:\Users\bdpet\OneDrive\Desktop\3D_Scene\Release\3D_Scene_Camera.exe
