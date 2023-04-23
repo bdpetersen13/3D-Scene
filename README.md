@@ -9,7 +9,7 @@ For my final project in the CS330: Computational Graphics and Visualization at S
 This final project aimed to recreate a 3D scene from a selected 2D image. The 2D image I chose contained a tea set: a teapot, two teacups, a container, and a serving tray.
 
 2D image:
-
+![image](https://user-images.githubusercontent.com/89234922/233851002-50cf449c-50a6-4138-8ec6-6aba27c187b1.png)
 
 
 When designing the program involved breaking down the overall project into smaller, manageable components and identifying the requirements and constraints for each element. This process involved creating diagrams, flowcharts, and prototypes to help visualize the design and gather feedback. In addition, when developing the scene, it was essential to prioritize the design's modularity, scalability, and maintainability to ensure the software could adapt to changing needs over time.
@@ -31,6 +31,10 @@ To get started, you must clone this repository to your chosen place on your loca
 In the files, you will find a .exe file that will run the program showcasing the rendered 3D scene.
 
 Additionally, the project was created using Visual Studio, and the project file can be opened with Visual Studio. Once opened, the application must be built on the new device.
+
+3D Scene:
+![image](https://user-images.githubusercontent.com/89234922/233851022-55379885-7ec3-4089-a73c-66c28e2d5be3.png)
+
 
 ## Usage
 
